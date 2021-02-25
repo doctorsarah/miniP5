@@ -15,7 +15,7 @@ Use the provided **URLDissector.java** as a starting point to create a **Fractio
 ```
 ## Recommended Phases
 1. Change names:
-   * Rename ```URLDissector``` to ```FractionReader`` (class name and file name).
+   * Rename ```URLDissector``` to ```FractionReader``` (class name and file name).
    * Rename url and urlScan to be appropriately named for fractions.
    * Change ```urls.inp``` to ```fractions.txt```.
    * Update the comments to include your name, a description, and how this program went for you.
