@@ -14,10 +14,10 @@ Use the provided **URLDissector.java** as a starting point to create a **Fractio
 3/4 = 0.75
 ```
 ## Recommended Phases
-1. Change the names:
-   a. Rename URLDissector to FractionReader (class name and file name)
-   b. Rename url and urlScan to be appropriately named for fractions.
-   c. Change ```urls.inp``` to ```fractions.txt```.
+1. Change names:
+   * Rename URLDissector to FractionReader (class name and file name)
+   * Rename url and urlScan to be appropriately named for fractions.
+   * Change ```urls.inp``` to ```fractions.txt```.
 2. Add an ArrayList of Fractions.
 3. Remove the nested while loop and instead read 2 strings and convert them to integers, using ```Integer.parseInt(*the string value*);```
 4. Create a Fraction object with the 2 integers and add it to the ArrayList.
