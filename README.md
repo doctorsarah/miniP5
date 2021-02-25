@@ -1,6 +1,6 @@
 # program-chap05
 
-Use the provided **URLDissector.java** as a starting point to create a **FractionReader**. Instead of reading URL's, read fractions from a file named **fractions.txt**, one per line, add them to an **ArrayList**, and **print** them in **reverse** order with their values.
+Use the provided **URLDissector.java** as a starting point to create a **FractionReader**. Instead of reading URL's, read fractions from the file  **fractions.txt**, one per line, add them to an **ArrayList**, and **print** them in **reverse** order with their values.
 
 ## Expected Output
 ```
