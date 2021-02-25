@@ -26,5 +26,5 @@ Use the provided **URLDissector.java** as a starting point to create **FractionR
 6. Remove any unnecesary prints and code.
 
 ## Submission
-Submit your source code to CodePost.
+Submit your source code (with good style) to CodePost before the deadline.
 
